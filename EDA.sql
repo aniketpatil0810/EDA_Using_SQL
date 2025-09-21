@@ -73,7 +73,12 @@ use classicmodels;
 
 
 -- Find the total sales amount for each customer
-		select customernumber,customername,sum(quantityordered*priceeach) total_sales_amount from customers join orders using(customernumber) join orderdetails group by customernumber;
+	SELECT customernumber,customername,
+	sum(quantityordered * priceeach) total_sales_amount
+	FROM customers
+	JOIN orders using (customernumber)
+	JOIN orderdetails
+	GROUP BY customernumber;
 
 
 --  Show the average credit limit per country
@@ -93,7 +98,15 @@ use classicmodels;
 
 
 --  Get the monthly sales totals for 2004
-		select year(o.orderdate) year, month(o.orderdate) month,sum(od.quantityordered * od.priceeach) total from orders o inner join orderdetails od on o.ordernumber=od.ordernumber where year(o.orderdate)=2004 group by year(o.orderdate),month(o.orderdate) order by month(o.orderdate) ;
+	SELECT year(o.orderdate) year,
+	month(o.orderdate) month,
+	sum(od.quantityordered * od.priceeach) total
+	FROM orders o
+	INNER JOIN orderdetails od ON o.ordernumber = od.ordernumber
+	WHERE year(o.orderdate) = 2004
+	GROUP BY year(o.orderdate),
+	month(o.orderdate)
+	ORDER BY month(o.orderdate);
 
 
 -- Find the top 5 customers by total payments
