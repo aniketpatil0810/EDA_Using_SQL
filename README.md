@@ -14,7 +14,7 @@
  ##### 7. Business Insights: Answering specific business questions by applying all the skills learned
  <br>
 
-### Here I have show the 2-3 samples of the every part 
+### Here I have show the 2-3 samples of the every part of this EDA Project.
 
 
 * Question 3.2 <br>
