@@ -22,7 +22,7 @@
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/4.5.png" alt="solution" width="600">
 * Question 5.2 <br>
 ####  Create a procedure to find total sales between two dates
---> Procedure calculates total sales between two dates by summing quantity ordered multiplied by price for orders in that date range
+--> Procedure calculates total sales between two dates by summing quantity ordered multiplied by price for orders in that date range <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/5.2.png" alt="solution" width="600">
 * Question 5.4 <br>
 #### Create a procedure to display all customers handled by an employee
