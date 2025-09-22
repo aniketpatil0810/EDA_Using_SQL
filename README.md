@@ -3,18 +3,19 @@
 1. To get hands on experience on sql and its capabilities
 2. The project's goal is to explore the database and answer a series of questions using SQL.
 
-## Introdution Of Project
-#### --> The project is structured into seven parts, progressing from fundamental SQL commands to more advanced concepts. These parts cover:
- ##### 1. Basic Exploration: Simple queries for data retrieval.
- ##### 2. Joins Practice: Combining data from multiple tables.
- ##### 3. Aggregates & Grouping: Summarizing data using functions like COUNT and SUM.
- ##### 4. Subqueries & Insights: Using nested queries for complex data retrieval
- ##### 5. Stored Procedures: Creating reusable code blocks for specific tasks.
- ##### 6. Advanced Clauses: Using advanced features like HAVING and CASE.
- ##### 7. Business Insights: Answering specific business questions by applying all the skills learned
+* ##  Introdution Of Project
+  #### --> The project is structured into seven parts, progressing from fundamental SQL commands to more advanced concepts. These parts cover:
+    ##### 1. Basic Exploration: Simple queries for data retrieval.
+    ##### 2. Joins Practice: Combining data from multiple tables.
+    ##### 3. Aggregates & Grouping: Summarizing data using functions like COUNT and SUM.
+    ##### 4. Subqueries & Insights: Using nested queries for complex data retrieval
+    ##### 5. Stored Procedures: Creating reusable code blocks for specific tasks.
+    ##### 6. Advanced Clauses: Using advanced features like HAVING and CASE.
+    ##### 7. Business Insights: Answering specific business questions by applying all the skills learned
  <br>
 
-### Here I have show the 2-3 samples of the every part of this EDA Project.
+* ### Here I have show the 2-3 samples of the every part of this EDA Project <br>
+
 
 
 * Question 3.2 <br>
