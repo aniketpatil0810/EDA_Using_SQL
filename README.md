@@ -26,11 +26,11 @@
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/5.2.png" alt="solution" width="600">
 * Question 5.4 <br>
 #### Create a procedure to display all customers handled by an employee
---> This procedure retrieves and displays all customers handled by a specific employee based on their employee number
+--> This procedure retrieves and displays all customers handled by a specific employee based on their employee number <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/5.4.png" alt="solution" width="600">
 * Question 6.1 <br>
 #### Find customers who placed more than 5 orders
---> Retrieve customers who have placed more than 5 orders to identify frequent buyers
+--> Retrieve customers who have placed more than 5 orders to identify frequent buyers <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/6.1.png" alt="solution" width="600">
 * Question 6.3 <br>
 #### Show employees with more than 3 customers assigned
@@ -39,17 +39,17 @@
 
 * Question 6.5 <br>
 ####  Categorize customers by credit limit: High, Medium, Low
---> Classify customers into High, Medium, and Low categories based on credit limit
+--> Classify customers into High, Medium, and Low categories based on credit limit <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/6.5.png" alt="solution" width="600">
 * Question 7.5 <br>
 ####  Which product has the highest profit margin (MSRP - buyPrice)?
---> Identify the product with the highest profit margin by comparing MSRP and buy price
+--> Identify the product with the highest profit margin by comparing MSRP and buy price <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/7.5.png" alt="solution" width="600">
 * Question 7.7 <br>
 #### Who are the most valuable customers (based on payments)?
---> Find the most valuable customers based on their total payment amounts
+--> Find the most valuable customers based on their total payment amounts <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/7.7.png" alt="solution" width="600">
 * Question 7.11 <br>
 #### Find the slowest-moving products (very few orders)
---> Identify slow-moving products by analyzing items with very few orders
+--> Identify slow-moving products by analyzing items with very few orders <br>
 <img src="https://github.com/aniketpatil0810/EDA_Using_SQL/blob/main/project_snapshots/7.11.png" alt="solution" width="600">
